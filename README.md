@@ -19,12 +19,12 @@ Hello I am now  studying  to be Full-stack developer.I am not perfect <br>now Bu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AungSannOoDe&limit=5&theme=react&combine_all_yearly_contributions=true)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>[![](https://visitcount.itsvg.in/api?id=AungSannOoDe&icon=0&color=1)](https://visitcount.itsvg.in)
+</picture>
+
+[![](https://visitcount.itsvg.in/api?id=AungSannOoDe&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
